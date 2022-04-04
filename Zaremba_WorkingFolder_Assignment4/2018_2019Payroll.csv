@@ -1,0 +1,487 @@
+"Year","Team","Players","Position","Base.Salary","Base.Num"
+"2018","arsenal Fc","Mesut Ozil","M","18200000",18.2
+"2018","arsenal Fc","Pierre-Emerick Aubameyang","F","10400000",10.4
+"2018","arsenal Fc","Alexandre Lacazette","F","9467273",9.467273
+"2018","arsenal Fc","Henrikh Mkhitaryan","M","9360000",9.36
+"2018","arsenal Fc","Danny Welbeck","F","6500000",6.5
+"2018","arsenal Fc","Aaron Ramsey","M","6240000",6.24
+"2018","arsenal Fc","Hector Bellerin","D","5720000",5.72
+"2018","arsenal Fc","Petr Cech","GK","5720000",5.72
+"2018","arsenal Fc","Sead Kolasinac","D","5200000",5.2
+"2018","arsenal Fc","Bernd Leno","GK","5200000",5.2
+"2018","arsenal Fc","Granit Xhaka","M","5200000",5.2
+"2018","arsenal Fc","Sokratis Papastathopoulos","D","4784000",4.784
+"2018","arsenal Fc","Laurent Koscielny","D","4680000",4.68
+"2018","arsenal Fc","Shkodran Mustafi","D","4680000",4.68
+"2018","arsenal Fc","Stephan Lichtsteiner","D","3900000",3.9
+"2018","arsenal Fc","Lucas Torreira","M","3900000",3.9
+"2018","arsenal Fc","Nacho Monreal","D","3640000",3.64
+"2018","arsenal Fc","Mohamed Elneny","M","2600000",2.6
+"2018","arsenal Fc","Alex Iwobi","F","2600000",2.6
+"2018","arsenal Fc","Carl Jenkinson","D","2340000",2.34
+"2018","arsenal Fc","Edward Nketiah","F","2340000",2.34
+"2018","arsenal Fc","Matteo Guendouzi","M","2080000",2.08
+"2018","arsenal Fc","Ainsley Maitland-Niles","M","1820000",1.82
+"2018","arsenal Fc","Rob Holding","D","1300000",1.3
+"2018","arsenal Fc","Konstantinos Mavropanos","D","1300000",1.3
+"2018","arsenal Fc","Emiliano Martinez","GK","1040000",1.04
+"2018","arsenal Fc","Reiss Nelson","M","780000",0.78
+"2018","arsenal Fc","Dejan Iliev","GK",NA,NA
+"2018","aston Villa Fc","Henri Lansbury","M","2080000",2.08
+"2018","aston Villa Fc","Jack Grealish","M","1820000",1.82
+"2018","aston Villa Fc","Jonathan Kodjia","F","1820000",1.82
+"2018","aston Villa Fc","Neil Taylor","D","1664000",1.664
+"2018","aston Villa Fc","James Chester","D","1560000",1.56
+"2018","aston Villa Fc","Ahmed Elmohamady","M","1300000",1.3
+"2018","aston Villa Fc","Orjan Nyland","GK","1040000",1.04
+"2018","aston Villa Fc","James Bree","D","520000",0.52
+"2018","aston Villa Fc","Andre Green","F","312000",0.312
+"2018","aston Villa Fc","Keinan Davis","F","260000",0.26
+"2018","aston Villa Fc","Axel Tuanzebe","D","260000",0.26
+"2018","aston Villa Fc","Glenn Whelan","M",NA,NA
+"2018","brighton Hove Albion","Pascal Gross","M","2600000",2.6
+"2018","brighton Hove Albion","Alireza Jahanbakhsh","F","2600000",2.6
+"2018","brighton Hove Albion","Martin Montoya","D","2600000",2.6
+"2018","brighton Hove Albion","Lewis Dunk","D","2340000",2.34
+"2018","brighton Hove Albion","Jose Izquierdo","F","2340000",2.34
+"2018","brighton Hove Albion","Jurgen Locadia","F","2340000",2.34
+"2018","brighton Hove Albion","Davy Propper","M","2340000",2.34
+"2018","brighton Hove Albion","Florin Andone","F","2080000",2.08
+"2018","brighton Hove Albion","Shane Duffy","D","2080000",2.08
+"2018","brighton Hove Albion","Anthony Knockaert","F","1820000",1.82
+"2018","brighton Hove Albion","Mathew Ryan","GK","1820000",1.82
+"2018","brighton Hove Albion","Ezequiel Schelotto","D","1664000",1.664
+"2018","brighton Hove Albion","Solly March","M","1560000",1.56
+"2018","brighton Hove Albion","Glenn Murray","F","1560000",1.56
+"2018","brighton Hove Albion","Dale Stephens","M","1560000",1.56
+"2018","brighton Hove Albion","Yves Bissouma","M","1300000",1.3
+"2018","brighton Hove Albion","Bernardo Fernandes da Silva Junior","M","1300000",1.3
+"2018","brighton Hove Albion","Beram Kayal","M","1300000",1.3
+"2018","brighton Hove Albion","Gaetan Bong","D","1040000",1.04
+"2018","brighton Hove Albion","Leon Balogun","D","950000",0.95
+"2018","brighton Hove Albion","David Button","GK","833333",0.833333
+"2018","brighton Hove Albion","Jason Steele","GK","833333",0.833333
+"2018","brighton Hove Albion","Billy Arce","F",NA,NA
+"2018","brighton Hove Albion","Dan Burn","D",NA,NA
+"2018","burnley Fc","Ben Mee","D","2860000",2.86
+"2018","burnley Fc","James Tarkowski","D","2600000",2.6
+"2018","burnley Fc","Chris Wood","F","2600000",2.6
+"2018","burnley Fc","Steven Defour","M","2340000",2.34
+"2018","burnley Fc","Joe Hart","GK","2340000",2.34
+"2018","burnley Fc","Tom Heaton","GK","2200000",2.2
+"2018","burnley Fc","Ashley Barnes","F","2080000",2.08
+"2018","burnley Fc","Ben Gibson","D","2080000",2.08
+"2018","burnley Fc","Jack Cork","M","1976000",1.976
+"2018","burnley Fc","Robbie Brady","M","1820000",1.82
+"2018","burnley Fc","Jeff Hendrick","M","1820000",1.82
+"2018","burnley Fc","Aaron Lennon","F","1820000",1.82
+"2018","burnley Fc","Nick Pope","GK","1820000",1.82
+"2018","burnley Fc","Matej Vydra","F","1820000",1.82
+"2018","burnley Fc","Ashley Westwood","M","1612000",1.612
+"2018","burnley Fc","Johann Berg Gudmundsson","M","1560000",1.56
+"2018","burnley Fc","Stephen Ward","D","1456000",1.456
+"2018","burnley Fc","Phil Bardsley","D","1300000",1.3
+"2018","burnley Fc","Matthew Lowton","D","1300000",1.3
+"2018","burnley Fc","Charlie Taylor","D","1300000",1.3
+"2018","burnley Fc","Sam Vokes","F","1300000",1.3
+"2018","burnley Fc","Kevin Long","D","1200000",1.2
+"2018","burnley Fc","Anders Lindegaard","GK","416000",0.416
+"2018","burnley Fc","Adam Legzdins","GK","260000",0.26
+"2018","chelsea Fc","Eden Hazard","M","11700000",11.7
+"2018","chelsea Fc","Cesc Fàbregas","M","8112000",8.112
+"2018","chelsea Fc","Kepa Arrizabalaga","GK","7800000",7.8
+"2018","chelsea Fc","César Azpilicueta","D","7540000",7.54
+"2018","chelsea Fc","N'Golo Kante","M","7500000",7.5
+"2018","chelsea Fc","Willian da Silva","M","7200000",7.2
+"2018","chelsea Fc","Olivier Giroud","F","6240000",6.24
+"2018","chelsea Fc","David Luiz","D","6240000",6.24
+"2018","chelsea Fc","Jorge Luiz Frello Filho","M","5720000",5.72
+"2018","chelsea Fc","Marcos Alonso","D","5200000",5.2
+"2018","chelsea Fc","Gary Cahill","D","5200000",5.2
+"2018","chelsea Fc","Danny Drinkwater","M","5200000",5.2
+"2018","chelsea Fc","Antonio Rudiger","D","5200000",5.2
+"2018","chelsea Fc","Ross Barkley","M","5000000",5
+"2018","chelsea Fc","Andreas Christensen","D","4160000",4.16
+"2018","chelsea Fc","Christian Pulisic","F","4125000",4.125
+"2018","chelsea Fc","Mateo Kovacic","M","3900000",3.9
+"2018","chelsea Fc","Victor Moses","D","3900000",3.9
+"2018","chelsea Fc","Emerson Palmieri","D","3900000",3.9
+"2018","chelsea Fc","Davide Zappacosta","D","3640000",3.64
+"2018","chelsea Fc","Pedro Rodríguez Ledesma","M","3000000",3
+"2018","chelsea Fc","Willy Caballero","GK","2080000",2.08
+"2018","chelsea Fc","Ruben Loftus-Cheek","M","1820000",1.82
+"2018","chelsea Fc","Marco van Ginkel","M","1450000",1.45
+"2018","chelsea Fc","Robert Green","GK","1300000",1.3
+"2018","chelsea Fc","Charly Musonda","M","550000",0.55
+"2018","chelsea Fc","Jamal Blackman","GK","416000",0.416
+"2018","chelsea Fc","Ethan Ampadu","M","390000",0.39
+"2018","crystal Palace","Wilfried Zaha","F","6760000",6.76
+"2018","crystal Palace","Max Meyer","M","6500000",6.5
+"2018","crystal Palace","Christian Benteke","F","6240000",6.24
+"2018","crystal Palace","Mamadou Sakho","D","5200000",5.2
+"2018","crystal Palace","Cheikhou Kouyate","M","3380000",3.38
+"2018","crystal Palace","Scott Dann","D","3120000",3.12
+"2018","crystal Palace","Vicente Guaita","GK","3120000",3.12
+"2018","crystal Palace","Connor Wickham","F","3120000",3.12
+"2018","crystal Palace","Jeffrey Schlupp","D","2912000",2.912
+"2018","crystal Palace","James McArthur","M","2860000",2.86
+"2018","crystal Palace","Luka Milivojevic","M","2860000",2.86
+"2018","crystal Palace","Jairo Riedewald","D","2860000",2.86
+"2018","crystal Palace","Andros Townsend","F","2860000",2.86
+"2018","crystal Palace","Patrick Van Aanholt","D","2860000",2.86
+"2018","crystal Palace","James Tomkins","D","2600000",2.6
+"2018","crystal Palace","Wayne Hennessey","GK","2080000",2.08
+"2018","crystal Palace","Jason Puncheon","M","1820000",1.82
+"2018","crystal Palace","Joel Ward","D","1820000",1.82
+"2018","crystal Palace","Pape Souare","D","1560000",1.56
+"2018","crystal Palace","Martin Kelly","D","1300000",1.3
+"2018","crystal Palace","Julian Speroni","GK","1300000",1.3
+"2018","crystal Palace","Alexander Sörloth","F","1040000",1.04
+"2018","crystal Palace","Aaron Wan-Bissaka","D","780000",0.78
+"2018","crystal Palace","Jonny Williams","M","780000",0.78
+"2018","crystal Palace","Sullay Kaikai","M","156000",0.156
+"2018","everton Fc","Bernard Anicio Caldeira Duarte","M","6240000",6.24
+"2018","everton Fc","Yerry Mina","D","6240000",6.24
+"2018","everton Fc","Andre Gomes","M","5800000",5.8
+"2018","everton Fc","Jordan Pickford","GK","5200000",5.2
+"2018","everton Fc","Morgan Schneiderlin","M","5200000",5.2
+"2018","everton Fc","Gylfi Sigurdsson","M","5200000",5.2
+"2018","everton Fc","Theo Walcott","F","5200000",5.2
+"2018","everton Fc","Richarlison de Andrade","F","4680000",4.68
+"2018","everton Fc","Lucas Digne","D","4680000",4.68
+"2018","everton Fc","Leighton Baines","D","3640000",3.64
+"2018","everton Fc","Seamus Coleman","D","3640000",3.64
+"2018","everton Fc","Idrissa Gueye","M","3640000",3.64
+"2018","everton Fc","Michael Keane","D","3120000",3.12
+"2018","everton Fc","Cenk Tosun","F","3120000",3.12
+"2018","everton Fc","Oumar Niasse","F","2860000",2.86
+"2018","everton Fc","Phil Jagielka","D","2600000",2.6
+"2018","everton Fc","James McCarthy","M","2600000",2.6
+"2018","everton Fc","Kurt Zouma","D","2080000",2.08
+"2018","everton Fc","Maarten Stekelenburg","GK","1560000",1.56
+"2018","everton Fc","Tom Davies","M","1300000",1.3
+"2018","everton Fc","Mason Holgate","D","1300000",1.3
+"2018","everton Fc","Ademola Lookman","F","1196000",1.196
+"2018","everton Fc","Dominic Calvert-Lewin","F","1040000",1.04
+"2018","everton Fc","Kieran Dowell","M","780000",0.78
+"2018","everton Fc","Jonjoe Kenny","D","780000",0.78
+"2018","everton Fc","Beni Baningime","M","416000",0.416
+"2018","everton Fc","Callum Connolly","M",NA,NA
+"2018","everton Fc","Joao Virginia","GK",NA,NA
+"2018","fulham Fc","André Schurrle","F","5408000",5.408
+"2018","fulham Fc","Andre-Frank Zambo Anguissa","M","3484000",3.484
+"2018","fulham Fc","Jean Michael Seri","M","3380000",3.38
+"2018","fulham Fc","Aleksandar Mitrovic","F","3120000",3.12
+"2018","fulham Fc","Luciano Vietto","F","2860000",2.86
+"2018","fulham Fc","Calum Chambers","D","2600000",2.6
+"2018","fulham Fc","Fabricio Agosto Ramírez","GK","2340000",2.34
+"2018","fulham Fc","Sergio Rico","GK","2340000",2.34
+"2018","fulham Fc","Tom Cairney","M","2080000",2.08
+"2018","fulham Fc","Marcus Bettinelli","GK","1820000",1.82
+"2018","fulham Fc","Alfie Mawson","D","1664000",1.664
+"2018","fulham Fc","Joe Bryan","D","1560000",1.56
+"2018","fulham Fc","Tim Ream","D","1404000",1.404
+"2018","fulham Fc","Maxime le Marchand","D","1300000",1.3
+"2018","fulham Fc","Kevin McDonald","M","1144000",1.144
+"2018","fulham Fc","Cyrus Christie","D","1040000",1.04
+"2018","fulham Fc","Timothy Fosu-Mensah","D","1040000",1.04
+"2018","fulham Fc","Neeskens Kebano","M","700000",0.7
+"2018","fulham Fc","Ibrahima Cissé","M","650000",0.65
+"2018","fulham Fc","Aboubakar Kamara","F","650000",0.65
+"2018","fulham Fc","Stefan Johansen","M","520000",0.52
+"2018","fulham Fc","Denis Odoi","D","462800",0.4628
+"2018","fulham Fc","Floyd Ayité","F","416000",0.416
+"2018","fulham Fc","Ryan Sessegnon","M","416000",0.416
+"2018","leeds United Fc","Patrick Bamford","F","1820000",1.82
+"2018","leeds United Fc","Kiko Casilla","GK","1670000",1.67
+"2018","leeds United Fc","Adam Forshaw","M","1040000",1.04
+"2018","leeds United Fc","Pablo Hernández","M","988000",0.988
+"2018","leeds United Fc","Ezgjan Alioski","M","780000",0.78
+"2018","leeds United Fc","Eunan O'Kane","M","676000",0.676
+"2018","leeds United Fc","Barry Douglas","D","520000",0.52
+"2018","leeds United Fc","Gaetano Berardi","D","468000",0.468
+"2018","leeds United Fc","Ouasim Bouy","M","457600",0.4576
+"2018","leeds United Fc","Jay-Roy Grot","F","371800",0.3718
+"2018","leeds United Fc","Conor Shaughnessy","M","371800",0.3718
+"2018","leeds United Fc","Tyler Roberts","M","182000",0.182
+"2018","leeds United Fc","Laurens De Bock","D",NA,NA
+"2018","leeds United Fc","Kamil Miazek","GK",NA,NA
+"2018","leeds United Fc","Kun Temenuzhkov","F",NA,NA
+"2018","leicester City","Jamie Vardy","F","7280000",7.28
+"2018","leicester City","Kasper Schmeichel","GK","6760000",6.76
+"2018","leicester City","Harry Maguire","D","4680000",4.68
+"2018","leicester City","Jonny Evans","D","4160000",4.16
+"2018","leicester City","Adrien Silva","M","4160000",4.16
+"2018","leicester City","Onyinye Ndidi","M","3900000",3.9
+"2018","leicester City","Ricardo Pereira","D","3640000",3.64
+"2018","leicester City","Ben Chilwell","D","3380000",3.38
+"2018","leicester City","Kelechi Iheanacho","F","3120000",3.12
+"2018","leicester City","Wes Morgan","D","3120000",3.12
+"2018","leicester City","Demarai Gray","F","2860000",2.86
+"2018","leicester City","Vicente Iborra","M","2860000",2.86
+"2018","leicester City","James Maddison","M","2860000",2.86
+"2018","leicester City","Christian Fuchs","D","2600000",2.6
+"2018","leicester City","Nampalys Mendy","M","2600000",2.6
+"2018","leicester City","Marc Albrighton","M","2340000",2.34
+"2018","leicester City","Richad Ghezzal","M","2340000",2.34
+"2018","leicester City","Danny Simpson","D","2340000",2.34
+"2018","leicester City","Caglar Soyuncu","D","2340000",2.34
+"2018","leicester City","Yohan Benalouane","D","2080000",2.08
+"2018","leicester City","Andy King","M","2080000",2.08
+"2018","leicester City","Shinji Okazaki","F","1820000",1.82
+"2018","leicester City","Matty James","M","1664000",1.664
+"2018","leicester City","Eldin Jakupovic","GK","1196000",1.196
+"2018","leicester City","Daniel Amartey","M","1092000",1.092
+"2018","leicester City","Danny Ward","GK","1040000",1.04
+"2018","leicester City","Fousseni Diabaté","F","780000",0.78
+"2018","leicester City","Hamza Choudhury","M","416000",0.416
+"2018","liverpool Fc","Mohamed Salah","F","10400000",10.4
+"2018","liverpool Fc","Roberto Firmino","F","9360000",9.36
+"2018","liverpool Fc","Virgil Van Dijk","D","9360000",9.36
+"2018","liverpool Fc","Jordan Henderson","M","7280000",7.28
+"2018","liverpool Fc","James Milner","M","7280000",7.28
+"2018","liverpool Fc","Daniel Sturridge","F","6760000",6.76
+"2018","liverpool Fc","Naby Keita","M","6240000",6.24
+"2018","liverpool Fc","Alex Oxlade-Chamberlain","M","6240000",6.24
+"2018","liverpool Fc","Adam Lallana","M","5720000",5.72
+"2018","liverpool Fc","Dejan Lovren","D","5200000",5.2
+"2018","liverpool Fc","Sadio Mane","F","5200000",5.2
+"2018","liverpool Fc","Joel Matip","D","5200000",5.2
+"2018","liverpool Fc","Fabinho Tavares","M","5200000",5.2
+"2018","liverpool Fc","Georginio Wijnaldum","M","4680000",4.68
+"2018","liverpool Fc","Xherdan Shaqiri","M","4160000",4.16
+"2018","liverpool Fc","Alisson Becker","GK","3900000",3.9
+"2018","liverpool Fc","Lazar Markovic","F","3900000",3.9
+"2018","liverpool Fc","Alberto Moreno","D","3380000",3.38
+"2018","liverpool Fc","Simon Mignolet","GK","3120000",3.12
+"2018","liverpool Fc","Tren Alexander-Arnold","D","2600000",2.6
+"2018","liverpool Fc","Andrew Robertson","D","2600000",2.6
+"2018","liverpool Fc","Divock Origi","F","2340000",2.34
+"2018","liverpool Fc","Joe Gomez","D","1560000",1.56
+"2018","liverpool Fc","Rhian Brewster","F","520000",0.52
+"2018","liverpool Fc","Taiwo Awoniyi","F",NA,NA
+"2018","liverpool Fc","Harry Wilson","M",NA,NA
+"2018","manchester City Fc","Kevin De Bruyne","M","18200000",18.2
+"2018","manchester City Fc","Sergio Aguero","F","13000000",13
+"2018","manchester City Fc","David Silva","M","11440000",11.44
+"2018","manchester City Fc","Raheem Sterling","F","9360000",9.36
+"2018","manchester City Fc","Fernandinho Luis Roza","M","7800000",7.8
+"2018","manchester City Fc","Ilkay Gundogan","M","6240000",6.24
+"2018","manchester City Fc","Vincent Kompany","D","6240000",6.24
+"2018","manchester City Fc","Riyad Mahrez","F","6240000",6.24
+"2018","manchester City Fc","Nicolas Otamendi","D","6240000",6.24
+"2018","manchester City Fc","Bernardo Silva","F","6240000",6.24
+"2018","manchester City Fc","Eliaquim Mangala","D","5200000",5.2
+"2018","manchester City Fc","John Stones","D","5200000",5.2
+"2018","manchester City Fc","Kyle Walker","D","5200000",5.2
+"2018","manchester City Fc","Fabian Delph","M","4680000",4.68
+"2018","manchester City Fc","Gabriel Jesus","F","4680000",4.68
+"2018","manchester City Fc","Benjamin Mendy","D","4680000",4.68
+"2018","manchester City Fc","Leroy Sane","F","4680000",4.68
+"2018","manchester City Fc","Claudio Bravo","GK","4160000",4.16
+"2018","manchester City Fc","Danilo Luiz da Silva","D","4160000",4.16
+"2018","manchester City Fc","Aymeric Laporte","D","3380000",3.38
+"2018","manchester City Fc","Ederson Moraes","GK","3380000",3.38
+"2018","manchester City Fc","Philippe Sandler","D","1976000",1.976
+"2018","manchester City Fc","Oleksandr Zinchenko","M","1040000",1.04
+"2018","manchester City Fc","Eric Garcia","D","750000",0.75
+"2018","manchester City Fc","Phil Foden","M","624000",0.624
+"2018","manchester City Fc","Brahim Diaz","M","416000",0.416
+"2018","manchester United Fc","Alexis Sanchez","F","18200000",18.2
+"2018","manchester United Fc","Paul Pogba","M","15080000",15.08
+"2018","manchester United Fc","David De Gea","GK","10400000",10.4
+"2018","manchester United Fc","Romelu Lukaku","F","9360000",9.36
+"2018","manchester United Fc","Juan Mata","M","8320000",8.32
+"2018","manchester United Fc","Luke Shaw","D","7800000",7.8
+"2018","manchester United Fc","Frederico de Paula Santos","M","6240000",6.24
+"2018","manchester United Fc","Victor Lindelof","D","6240000",6.24
+"2018","manchester United Fc","Nemanja Matic","M","6240000",6.24
+"2018","manchester United Fc","Ashley Young","M","6240000",6.24
+"2018","manchester United Fc","Ander Herrera","M","5980000",5.98
+"2018","manchester United Fc","Anthony Martial","F","5720000",5.72
+"2018","manchester United Fc","Marouane Fellaini","M","5200000",5.2
+"2018","manchester United Fc","Antonio Valencia","D","4420000",4.42
+"2018","manchester United Fc","Eric Bailly","D","4160000",4.16
+"2018","manchester United Fc","Marcos Rojo","D","4160000",4.16
+"2018","manchester United Fc","Chris Smalling","D","4160000",4.16
+"2018","manchester United Fc","Phil Jones","D","3900000",3.9
+"2018","manchester United Fc","Jesse Lingard","F","3900000",3.9
+"2018","manchester United Fc","Sergio Romero","GK","3640000",3.64
+"2018","manchester United Fc","Matteo Darmian","D","2340000",2.34
+"2018","manchester United Fc","Marcus Rashford","F","2340000",2.34
+"2018","manchester United Fc","Lee Grant","GK","1560000",1.56
+"2018","manchester United Fc","Andreas Pereira","M","1560000",1.56
+"2018","manchester United Fc","Diogo Dalot","M","1300000",1.3
+"2018","manchester United Fc","Scott McTominay","M","520000",0.52
+"2018","newcastle United Fc","Jonjo Shelvey","M","3640000",3.64
+"2018","newcastle United Fc","Jose Salomon Rondon","F","3120000",3.12
+"2018","newcastle United Fc","Yoshinori Muto","F","2808000",2.808
+"2018","newcastle United Fc","Mohamed Diame","M","2340000",2.34
+"2018","newcastle United Fc","Ayoze Perez","F","2340000",2.34
+"2018","newcastle United Fc","Matt Ritchie","M","2340000",2.34
+"2018","newcastle United Fc","Federico Fernandez","D","2236000",2.236
+"2018","newcastle United Fc","Jamaal Lascelles","D","2080000",2.08
+"2018","newcastle United Fc","Joselu Mato","F","2080000",2.08
+"2018","newcastle United Fc","Fabian Schar","D","2080000",2.08
+"2018","newcastle United Fc","Ki Sung-yueng","M","2080000",2.08
+"2018","newcastle United Fc","Martin Dubravka","GK","1976000",1.976
+"2018","newcastle United Fc","Florian Lejeune","D","1976000",1.976
+"2018","newcastle United Fc","Ciaran Clark","D","1820000",1.82
+"2018","newcastle United Fc","Paul Dummett","D","1820000",1.82
+"2018","newcastle United Fc","Javier Manquillo","D","1820000",1.82
+"2018","newcastle United Fc","Christian Atsu","F","1560000",1.56
+"2018","newcastle United Fc","Deandre Yedlin","D","1560000",1.56
+"2018","newcastle United Fc","Karl Darlow","GK","1300000",1.3
+"2018","newcastle United Fc","Rob Elliot","GK","1300000",1.3
+"2018","newcastle United Fc","Robert Kenedy","M","1300000",1.3
+"2018","newcastle United Fc","Jacob Murphy","F","1300000",1.3
+"2018","newcastle United Fc","Isaac Hayden","M","1144000",1.144
+"2018","newcastle United Fc","Freddie Woodman","GK","156000",0.156
+"2018","sheffield United Fc","Oliver Norwood","M","780000",0.78
+"2018","sheffield United Fc","Richard Stearman","D","780000",0.78
+"2018","sheffield United Fc","Billy Sharp","F","624000",0.624
+"2018","sheffield United Fc","Jack O'Connell","D","520000",0.52
+"2018","sheffield United Fc","Leon Clarke","F","468000",0.468
+"2018","sheffield United Fc","Mark Duffy","M","416000",0.416
+"2018","sheffield United Fc","John Fleck","M","416000",0.416
+"2018","sheffield United Fc","John Egan","D","390000",0.39
+"2018","sheffield United Fc","Kieron Freeman","D","234000",0.234
+"2018","sheffield United Fc","George Baldock","D","208000",0.208
+"2018","sheffield United Fc","John Lundstrom","M","208000",0.208
+"2018","sheffield United Fc","Enda Stevens","D","208000",0.208
+"2018","sheffield United Fc","Kean Bryan","D","156000",0.156
+"2018","sheffield United Fc","Chris Basham","D",NA,NA
+"2018","sheffield United Fc","Samir Carruthers","M",NA,NA
+"2018","sheffield United Fc","Paul Coutts","M",NA,NA
+"2018","sheffield United Fc","Martin Cranie","D",NA,NA
+"2018","sheffield United Fc","Jake Eastwood","GK",NA,NA
+"2018","sheffield United Fc","Ched Evans","F",NA,NA
+"2018","sheffield United Fc","Ben Heneghan","D",NA,NA
+"2018","sheffield United Fc","Ricky Holmes","F",NA,NA
+"2018","sheffield United Fc","Daniel Lafferty","D",NA,NA
+"2018","sheffield United Fc","Caolan Lavery","F",NA,NA
+"2018","sheffield United Fc","David McGoldrick","F",NA,NA
+"2018","sheffield United Fc","Simon Moore","GK",NA,NA
+"2018","sheffield United Fc","Nathan Thomas","F",NA,NA
+"2018","sheffield United Fc","Conor Washington","F",NA,NA
+"2018","sheffield United Fc","Jake Wright","D",NA,NA
+"2018","southampton Fc","Manolo Gabbiadini","F","4160000",4.16
+"2018","southampton Fc","Danny Ings","F","3900000",3.9
+"2018","southampton Fc","Charlie Austin","F","3640000",3.64
+"2018","southampton Fc","Ryan Bertrand","D","3640000",3.64
+"2018","southampton Fc","Fraser Forster","GK","3640000",3.64
+"2018","southampton Fc","Mario Lemina","M","3380000",3.38
+"2018","southampton Fc","Oriol Romeu","M","3380000",3.38
+"2018","southampton Fc","Cedric Soares","D","3380000",3.38
+"2018","southampton Fc","Steven Davis","M","3120000",3.12
+"2018","southampton Fc","Mohamed Elyounoussi","F","3120000",3.12
+"2018","southampton Fc","Wesley Hoedt","D","3120000",3.12
+"2018","southampton Fc","Shane Long","F","3120000",3.12
+"2018","southampton Fc","Nathan Redmond","F","3120000",3.12
+"2018","southampton Fc","Jannik Vestergaard","D","3120000",3.12
+"2018","southampton Fc","Stuart Armstrong","M","2600000",2.6
+"2018","southampton Fc","Pierre-Emile Hojbjerg","M","2600000",2.6
+"2018","southampton Fc","Alex McCarthy","GK","2600000",2.6
+"2018","southampton Fc","Maya Yoshida","D","2600000",2.6
+"2018","southampton Fc","Jack Stephens","D","2496000",2.496
+"2018","southampton Fc","James Ward-Prowse","M","2340000",2.34
+"2018","southampton Fc","Sam Gallagher","F","2080000",2.08
+"2018","southampton Fc","Angus Gunn","GK","2080000",2.08
+"2018","southampton Fc","Matt Targett","D","1820000",1.82
+"2018","southampton Fc","Jan Bednarek","D","1040000",1.04
+"2018","tottenham Hotspur Fc","Harry Kane","F","10400000",10.4
+"2018","tottenham Hotspur Fc","Heung-Min Son","F","7280000",7.28
+"2018","tottenham Hotspur Fc","Dele Alli","M","5200000",5.2
+"2018","tottenham Hotspur Fc","Hugo Lloris","GK","5200000",5.2
+"2018","tottenham Hotspur Fc","Jan Vertonghen","D","5200000",5.2
+"2018","tottenham Hotspur Fc","Erik Lamela","M","4160000",4.16
+"2018","tottenham Hotspur Fc","Lucas Moura","M","4160000",4.16
+"2018","tottenham Hotspur Fc","Moussa Sissoko","M","4160000",4.16
+"2018","tottenham Hotspur Fc","Christian Eriksen","M","3900000",3.9
+"2018","tottenham Hotspur Fc","Fernando Llorente","F","3900000",3.9
+"2018","tottenham Hotspur Fc","Serge Aurier","D","3640000",3.64
+"2018","tottenham Hotspur Fc","Davinson Sanchez","D","3380000",3.38
+"2018","tottenham Hotspur Fc","Kieran Trippier","D","3380000",3.38
+"2018","tottenham Hotspur Fc","Victor Wanyama","M","3380000",3.38
+"2018","tottenham Hotspur Fc","Ben Davies","D","3120000",3.12
+"2018","tottenham Hotspur Fc","Eric Dier","M","3120000",3.12
+"2018","tottenham Hotspur Fc","Danny Rose","D","3120000",3.12
+"2018","tottenham Hotspur Fc","Harry Winks","M","2600000",2.6
+"2018","tottenham Hotspur Fc","Michel Vorm","GK","2080000",2.08
+"2018","tottenham Hotspur Fc","Vincent Janssen","F","1768000",1.768
+"2018","tottenham Hotspur Fc","Juan Foyth","D","1118000",1.118
+"2018","tottenham Hotspur Fc","Paulo Gazzaniga","GK","1040000",1.04
+"2018","tottenham Hotspur Fc","Kyle Walker-Peters","D","1040000",1.04
+"2018","west Bromwich Albion Fc","Nacer Chadli","M","3120000",3.12
+"2018","west Bromwich Albion Fc","Jay Rodriguez","F","3120000",3.12
+"2018","west Bromwich Albion Fc","Claudio Yacob","M","3120000",3.12
+"2018","west Bromwich Albion Fc","Kieran Gibbs","D","2860000",2.86
+"2018","west Bromwich Albion Fc","Jake Livermore","M","2392000",2.392
+"2018","west Bromwich Albion Fc","Chris Brunt","M","2340000",2.34
+"2018","west Bromwich Albion Fc","Craig Dawson","D","2080000",2.08
+"2018","west Bromwich Albion Fc","Matt Phillips","M","2080000",2.08
+"2018","west Bromwich Albion Fc","Allan-Romeo Nyom","D","1820000",1.82
+"2018","west Bromwich Albion Fc","Sam Johnstone","GK","1690000",1.69
+"2018","west Bromwich Albion Fc","Yuning Zhang","F","1612000",1.612
+"2018","west Bromwich Albion Fc","Tosin Adarabioyo","D","1560000",1.56
+"2018","west Bromwich Albion Fc","Oliver Burke","F","1560000",1.56
+"2018","west Bromwich Albion Fc","Hal Robson-Kanu","F","1560000",1.56
+"2018","west Bromwich Albion Fc","Ahmed Hegazy","D","1378000",1.378
+"2018","west Bromwich Albion Fc","Kyle Bartley","D","702000",0.702
+"2018","west Bromwich Albion Fc","Conor Townsend","D","598000",0.598
+"2018","west Bromwich Albion Fc","Sam Field","M","416000",0.416
+"2018","west Bromwich Albion Fc","Matheus Pereira","F","312000",0.312
+"2018","west Bromwich Albion Fc","Jonathan Leko","M","156000",0.156
+"2018","west Bromwich Albion Fc","Alex Palmer","GK","104000",0.104
+"2018","west Bromwich Albion Fc","Harvey Barnes","M",NA,NA
+"2018","west Bromwich Albion Fc","Josh Griffiths","GK",NA,NA
+"2018","west Bromwich Albion Fc","James Morrison","M",NA,NA
+"2018","west Ham United Fc","Javier Chicharito Hernandez","F","7280000",7.28
+"2018","west Ham United Fc","Andriy Yarmolenko","F","5980000",5.98
+"2018","west Ham United Fc","Marko Arnautovic","M","5200000",5.2
+"2018","west Ham United Fc","Jack Wilshere","M","5200000",5.2
+"2018","west Ham United Fc","Andy Carroll","F","4680000",4.68
+"2018","west Ham United Fc","Felipe Anderson","M","4420000",4.42
+"2018","west Ham United Fc","Lucas Perez","F","4160000",4.16
+"2018","west Ham United Fc","Pablo Zabaleta","D","3900000",3.9
+"2018","west Ham United Fc","Michail Antonio","M","3640000",3.64
+"2018","west Ham United Fc","Manuel Lanzini","M","3640000",3.64
+"2018","west Ham United Fc","Angelo Ogbonna","D","3640000",3.64
+"2018","west Ham United Fc","Winston Reid","D","3640000",3.64
+"2018","west Ham United Fc","Issa Diop","D","3484000",3.484
+"2018","west Ham United Fc","Lukasz Fabianski","GK","3380000",3.38
+"2018","west Ham United Fc","Pedro Obiang","M","2860000",2.86
+"2018","west Ham United Fc","Aaron Cresswell","D","2600000",2.6
+"2018","west Ham United Fc","Mark Noble","M","2600000",2.6
+"2018","west Ham United Fc","Adrian San Miguel del Castillo","GK","2600000",2.6
+"2018","west Ham United Fc","Carlos Sanchez","M","2600000",2.6
+"2018","west Ham United Fc","Fabian Balbuena","D","2080000",2.08
+"2018","west Ham United Fc","Ryan Fredericks","M","2080000",2.08
+"2018","west Ham United Fc","Arthur Masuaku","D","2080000",2.08
+"2018","west Ham United Fc","Robert Snodgrass","M","2080000",2.08
+"2018","west Ham United Fc","Reece Oxford","D","1040000",1.04
+"2018","west Ham United Fc","Declan Rice","M","156000",0.156
+"2018","wolverhampton Wanderers Fc","Jose Moutinho","M","5200000",5.2
+"2018","wolverhampton Wanderers Fc","Rui Patricio","GK","5200000",5.2
+"2018","wolverhampton Wanderers Fc","Willy Boly","D","3500000",3.5
+"2018","wolverhampton Wanderers Fc","Ruben Neves","M","2600000",2.6
+"2018","wolverhampton Wanderers Fc","Diogo Jota","F","2340000",2.34
+"2018","wolverhampton Wanderers Fc","Adama Traore","M","2236000",2.236
+"2018","wolverhampton Wanderers Fc","Raul Jimenez","F","2132000",2.132
+"2018","wolverhampton Wanderers Fc","Leander Dendoncker","M","1972000",1.972
+"2018","wolverhampton Wanderers Fc","Jonny Castro","D","1907000",1.907
+"2018","wolverhampton Wanderers Fc","Leo Bonatini","F","1820000",1.82
+"2018","wolverhampton Wanderers Fc","John Ruddy","GK","1820000",1.82
+"2018","wolverhampton Wanderers Fc","Helder Costa","F","1690000",1.69
+"2018","wolverhampton Wanderers Fc","Ruben Vinagre","D","1560000",1.56
+"2018","wolverhampton Wanderers Fc","Ivan Cavaleiro","F","1450000",1.45
+"2018","wolverhampton Wanderers Fc","Romain Saiss","M","1144000",1.144
+"2018","wolverhampton Wanderers Fc","Ryan Bennett","D","1040000",1.04
+"2018","wolverhampton Wanderers Fc","Max Kilman","D","900000",0.9
+"2018","wolverhampton Wanderers Fc","Conor Coady","D","780000",0.78
+"2018","wolverhampton Wanderers Fc","Matt Doherty","D","520000",0.52
+"2018","wolverhampton Wanderers Fc","Kortney Hause","D","416000",0.416
+"2018","wolverhampton Wanderers Fc","Dominic Iorfa","D","416000",0.416
+"2018","wolverhampton Wanderers Fc","Ethan Ebanks-Landell","D","156000",0.156
+"2018","wolverhampton Wanderers Fc","Will Norris","GK","156000",0.156
+"2018","wolverhampton Wanderers Fc","Morgan Gibbs-White","M","78000",0.078

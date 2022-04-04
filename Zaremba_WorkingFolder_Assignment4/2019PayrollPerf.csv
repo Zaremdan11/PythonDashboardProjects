@@ -1,0 +1,522 @@
+﻿Year,Team,Players,Position,BaseSalary,BaseNum,GK_Score,D_tackles_won_pct,D_interceptions,D_clearances,D_pressure_regain_pct,M_passes,M_passes_pct,F_goals,F_shots_on_target_pct
+2019,arsenal Fc,Mesut Ozil,M,18200000,18.2,,0.769230769,3,3,20.7,891,84.6,0,0
+2019,arsenal Fc,Pierre-Emerick Aubameyang,F,10400000,10.4,,0.615384615,9,16,22.7,888,68.9,22,44.4
+2019,arsenal Fc,Alexandre Lacazette,F,9467273,9.467273,,0.826086957,10,14,24.6,499,77.6,10,49.1
+2019,arsenal Fc,Nicolas Pepe,F,7280000,7.28,,0.633333333,10,3,25.1,803,76.7,5,32.7
+2019,arsenal Fc,David Luiz,D,6535000,6.535,,0.606060606,19,183,34.6,1713,86.5,2,30.4
+2019,arsenal Fc,Hector Bellerin,D,5720000,5.72,,0.695652174,10,34,25.1,686,81.3,0,0
+2019,arsenal Fc,Sead Kolasinac,D,5200000,5.2,,0.514285714,15,45,29.1,1031,84.3,0,0
+2019,arsenal Fc,Granit Xhaka,M,5200000,5.2,,0.586956522,11,85,29.1,1886,87.8,1,27.3
+2019,arsenal Fc,Sokratis Papastathopoulos,D,4784000,4.784,,0.565217391,3,108,28.2,973,89.7,0,0
+2019,arsenal Fc,Gabriel Martinelli,F,4680000,4.68,,0.565217391,2,7,27.9,138,62.3,3,41.7
+2019,arsenal Fc,Shkodran Mustafi,D,4680000,4.68,,0.642857143,8,111,33.3,790,83.9,0,27.3
+2019,arsenal Fc,Kieran Tierney,D,4200000,4.2,,0.523809524,10,44,31,544,76.1,0,0
+2019,arsenal Fc,Lucas Torreira,M,3900000,3.9,,0.648648649,24,30,25.3,906,87.5,1,28.6
+2019,arsenal Fc,Dani Ceballos,M,2700000,2.7,,0.571428571,20,22,27,1301,84.2,0,23.1
+2019,arsenal Fc,Calum Chambers,D,2600000,2.6,,0.72,13,61,35.7,865,81.2,1,16.7
+2019,arsenal Fc,Edward Nketiah,F,2340000,2.34,,0.7,5,4,23.9,140,79.3,2,33.3
+2019,arsenal Fc,Matteo Guendouzi,M,2080000,2.08,,0.541666667,22,48,28.4,1144,89,0,45.5
+2019,arsenal Fc,Ainsley Maitland-Niles,M,1820000,1.82,,0.658536585,17,41,28.3,999,82.6,0,0
+2019,arsenal Fc,Rob Holding,D,1300000,1.3,,0,0,0,0,338,86.4,0,0
+2019,arsenal Fc,Konstantinos Mavropanos,D,1300000,1.3,,0,0,0,0,0,0,0,0
+2019,arsenal Fc,Joe Willock,M,1040000,1.04,,0.681818182,6,12,27.7,368,81.3,1,28.6
+2019,arsenal Fc,Dejan Iliev,GK,0,0,0,0,0,0,0,0,0,0,0
+2019,arsenal Fc,Emiliano Martínez,GK,1040000,1.04,0.974169742,0,0,0,0,0,0,0,0
+2019,arsenal Fc,Bernd Leno,GK,5200000,5.2,0.967281673,0,0,0,0,0,0,0,0
+2019,aston Villa Fc,Bjorn Engels,D,2860000,2.86,,0,0,0,0,605,83.1,0,0
+2019,aston Villa Fc,Frederic Guilbert,D,2080000,2.08,,0.463414634,30,87,27.6,1026,67,0,0
+2019,aston Villa Fc,Henri Lansbury,M,2080000,2.08,,0,0,0,0,0,0,0,0
+2019,aston Villa Fc,Mbwana Samatta,F,2080000,2.08,,0,0,0,0,179,70.9,1,17.6
+2019,aston Villa Fc,Jack Grealish,M,1820000,1.82,,0.777777778,15,13,26.8,1538,79.1,8,30.6
+2019,aston Villa Fc,Wesley Moraes,F,1820000,1.82,,0.714285714,5,26,24.9,377,73.5,5,48.6
+2019,aston Villa Fc,Matt Targett,D,1820000,1.82,,0.578947368,21,88,29.3,1219,73.3,0,0
+2019,aston Villa Fc,Douglas Luiz,M,1709396,1.709396,,0.634615385,21,44,26.2,1216,80.9,3,30.8
+2019,aston Villa Fc,Mahmoud Hassan,F,1690000,1.69,,0,0,0,0,445,66.3,6,34
+2019,aston Villa Fc,Marvelous Nakamba,M,1690000,1.69,,0.723076923,28,34,34.2,792,84.5,0,0
+2019,aston Villa Fc,Neil Taylor,D,1664000,1.664,,0.5,11,32,27.3,513,79.9,0,0
+2019,aston Villa Fc,Anwar El Ghazi,F,1610000,1.61,,0.588235294,11,12,21.1,615,65.4,4,38
+2019,aston Villa Fc,James Chester,D,1560000,1.56,,0,0,0,0,0,0,0,0
+2019,aston Villa Fc,Conor Hourihane,M,1560000,1.56,,0.666666667,3,24,17,721,75.2,3,34.5
+2019,aston Villa Fc,Ahmed Elmohamady,M,1300000,1.3,,0.68,6,29,25.7,633,76.5,0,0
+2019,aston Villa Fc,Jose Ignacio Peleteiro Ramallo,F,1300000,1.3,,0,0,0,0,0,0,0,0
+2019,aston Villa Fc,John McGinn,M,1300000,1.3,,0.689655172,20,20,28.3,772,75.6,3,34.5
+2019,aston Villa Fc,Tyrone Mings,D,1300000,1.3,,0.68,20,223,41.3,1333,79.1,0,0
+2019,aston Villa Fc,Jota Peleteiro,M,1300000,1.3,,0,0,0,0,0,0,0,0
+2019,aston Villa Fc,Lovre Kalinic,GK,817000,0.817,,0,0,0,0,0,0,0,0
+2019,aston Villa Fc,Kortney Hause,D,416000,0.416,,0.814814815,11,114,40.1,789,74.9,1,15
+2019,aston Villa Fc,Ezri Konsa,D,416000,0.416,,0.666666667,14,83,32.6,853,79,1,36.4
+2019,aston Villa Fc,Jed Steer,GK,416000,0.416,,0,0,0,0,0,0,0,0
+2019,aston Villa Fc,Keinan Davis,F,260000,0.26,,0,0,0,0,142,75.4,0,31.3
+2019,aston Villa Fc,Borja Bastón,F,0,0,0,0,0,0,0,0,0,0,0
+2019,aston Villa Fc,Tom Heaton,GK,2184000,2.184,0.956703567,0,0,0,0,0,0,0,0
+2019,aston Villa Fc,Orjan Nyland,GK,1040000,1.04,0.950799508,0,0,0,0,0,0,0,0
+2019,brighton Hove Albion,Pascal Gross,M,2600000,2.6,,0.636363636,9,11,26.1,1028,74.1,2,31
+2019,brighton Hove Albion,Alireza Jahanbakhsh,F,2600000,2.6,,0,0,0,0,140,60,2,18.2
+2019,brighton Hove Albion,Neal Maupay,F,2600000,2.6,,0.607142857,3,7,26.3,688,78.5,10,37.8
+2019,brighton Hove Albion,Martin Montoya,D,2600000,2.6,,0,0,0,0,1255,80.2,0,0
+2019,brighton Hove Albion,Adam Webster,D,2600000,2.6,,0.675675676,34,182,38.7,1824,84.8,3,43.8
+2019,brighton Hove Albion,Lewis Dunk,D,2340000,2.34,,0.651162791,36,162,43.1,2192,87.3,3,33.3
+2019,brighton Hove Albion,Jose Izquierdo,F,2340000,2.34,,0,0,0,0,0,0,0,0
+2019,brighton Hove Albion,Davy Propper,M,2340000,2.34,,0.655172414,32,43,29.8,1785,83.1,1,25.8
+2019,brighton Hove Albion,Shane Duffy,D,2080000,2.08,,0.5625,13,116,34,613,84,0,0
+2019,brighton Hove Albion,Tariq Lamptey,D,1820000,1.82,,0,0,0,0,235,73.6,0,0
+2019,brighton Hove Albion,Leandro Trossard,F,1820000,1.82,,0.571428571,10,5,26.8,795,71.3,5,31
+2019,brighton Hove Albion,Ezequiel Schelotto,D,1664000,1.664,,0,0,0,0,169,71.6,0,0
+2019,brighton Hove Albion,Alexis Mac Allister,M,1600000,1.6,,0,0,0,0,130,64.6,0,0
+2019,brighton Hove Albion,Solly March,M,1560000,1.56,,0.653846154,12,19,27.8,601,72.4,0,38.1
+2019,brighton Hove Albion,Glenn Murray,F,1560000,1.56,,0,0,0,0,177,65.5,1,23.5
+2019,brighton Hove Albion,Dale Stephens,M,1560000,1.56,,0.526315789,39,46,32.3,1641,86.6,0,11.1
+2019,brighton Hove Albion,Yves Bissouma,M,1300000,1.3,,0.620689655,16,22,29.2,622,84.4,1,37.5
+2019,brighton Hove Albion,Bernardo Fernandes da Silva Junior,M,1300000,1.3,,0,0,0,0,383,74.7,0,0
+2019,brighton Hove Albion,Gaetan Bong,D,1050000,1.05,,0,0,0,0,0,0,0,0
+2019,brighton Hove Albion,Leon Balogun,D,950000,0.95,,0,0,0,0,0,0,0,0
+2019,brighton Hove Albion,David Button,GK,833333,0.833333,,0,0,0,0,0,0,0,0
+2019,brighton Hove Albion,Jason Steele,GK,833333,0.833333,,0,0,0,0,0,0,0,0
+2019,brighton Hove Albion,Dan Burn,D,832000,0.832,,0.571428571,26,148,35.3,1841,75.4,0,0
+2019,brighton Hove Albion,Soufyan Ahannach,F,520000,0.52,,0,0,0,0,0,0,0,0
+2019,brighton Hove Albion,Robert Sánchez,GK,520000,0.52,,0,0,0,0,0,0,0,0
+2019,brighton Hove Albion,Steven Alzate,F,0,0,0,0.821428571,10,14,32.8,664,84.9,0,23.1
+2019,brighton Hove Albion,Billy Arce,F,0,0,0,0,0,0,0,0,0,0,0
+2019,brighton Hove Albion,Viktor Gyökeres,F,0,0,0,0,0,0,0,0,0,0,0
+2019,brighton Hove Albion,Aaron Mooy,M,0,0,0,0.720930233,18,29,29.7,1075,76.7,2,24.2
+2019,brighton Hove Albion,Mathew Ryan,GK,1820000,1.82,0.965067651,0,0,0,0,0,0,0,0
+2019,burnley Fc,Danny Drinkwater,M,5200000,5.2,,0,0,0,0,167,81.4,0,0
+2019,burnley Fc,Ben Mee,D,2860000,2.86,,0.457142857,22,279,31.8,1172,74.7,1,27.8
+2019,burnley Fc,James Tarkowski,D,2600000,2.6,,0.671052632,43,329,31.9,1250,73,2,20
+2019,burnley Fc,Chris Wood,F,2600000,2.6,,0.6,5,17,22.6,483,64.6,14,43.8
+2019,burnley Fc,Erik Pieters,D,2500000,2.5,,0.706896552,13,89,24.6,923,74.4,0,28.6
+2019,burnley Fc,Steven Defour,M,2340000,2.34,,0,0,0,0,0,0,0,0
+2019,burnley Fc,Joe Hart,GK,2340000,2.34,,0,0,0,0,0,0,0,0
+2019,burnley Fc,Ashley Barnes,F,2080000,2.08,,0,0,0,0,253,61.3,6,28.2
+2019,burnley Fc,Josh Brownhill,M,2080000,2.08,,0.533333333,5,16,27.9,340,81.2,0,0
+2019,burnley Fc,Ben Gibson,D,2080000,2.08,,0,0,0,0,0,0,0,0
+2019,burnley Fc,Jack Cork,M,1976000,1.976,,0.692307692,25,57,28.4,933,79.6,0,27.8
+2019,burnley Fc,Robbie Brady,M,1820000,1.82,,0.5,6,8,22.2,167,64.7,1,8.3
+2019,burnley Fc,Jeff Hendrick,M,1820000,1.82,,0.555555556,14,19,19.4,575,73,2,27.3
+2019,burnley Fc,Aaron Lennon,F,1820000,1.82,,0.6,8,6,18.9,131,70.2,0,0
+2019,burnley Fc,Jay Rodriguez,F,1820000,1.82,,0.515151515,4,7,26.2,495,69.7,8,39.4
+2019,burnley Fc,Matej Vydra,F,1820000,1.82,,0,0,0,0,138,73.9,2,55.6
+2019,burnley Fc,Ashley Westwood,M,1612000,1.612,,0.625,27,32,25,1854,74.5,2,23.1
+2019,burnley Fc,Johann Berg Gudmundsson,M,1560000,1.56,,0,0,0,0,192,68.8,1,18.2
+2019,burnley Fc,Phil Bardsley,D,1300000,1.3,,0.6,15,88,27.8,897,66.8,0,41.7
+2019,burnley Fc,Matthew Lowton,D,1300000,1.3,,0.545454545,16,79,29.7,726,68.5,0,0
+2019,burnley Fc,Charlie Taylor,D,1300000,1.3,,0.372093023,13,106,29,1035,70.1,0,0
+2019,burnley Fc,Kevin Long,D,1196000,1.196,,0.8,1,39,32.1,186,75.8,0,0
+2019,burnley Fc,Bailey Peacock-Farrell,GK,500000,0.5,,0,0,0,0,0,0,0,0
+2019,burnley Fc,Adam Legzdins,GK,260000,0.26,,0,0,0,0,0,0,0,0
+2019,burnley Fc,Nick Pope,GK,1820000,1.82,0.967527675,0,0,0,0,0,0,0,0
+2019,chelsea Fc,Christian Pulisic,F,8250000,8.25,,0.612903226,2,11,29.3,700,78,9,40.3
+2019,chelsea Fc,César Azpilicueta,D,7540000,7.54,,0.598039216,39,146,32.7,2838,79.9,2,20.7
+2019,chelsea Fc,N'Golo Kante,M,7500000,7.5,,0,0,0,0,1140,85.5,3,33.3
+2019,chelsea Fc,Willian da Silva,M,7200000,7.2,,0,0,0,0,1600,77.9,9,38.8
+2019,chelsea Fc,Callum Hudson-Odoi,F,6240000,6.24,,0,0,0,0,476,80.7,1,18.2
+2019,chelsea Fc,Tiemoué Bakayoko,M,5720000,5.72,,0,0,0,0,0,0,0,0
+2019,chelsea Fc,Jorge Luiz Frello Filho,M,5720000,5.72,,0,0,0,0,2221,88,4,10
+2019,chelsea Fc,Olivier Giroud,F,5720000,5.72,,0,0,0,0,306,67.6,8,48.7
+2019,chelsea Fc,Marcos Alonso,D,5200000,5.2,,0.703703704,14,48,40.9,1108,82.7,4,26.7
+2019,chelsea Fc,Mateo Kovacic,M,5200000,5.2,,0,0,0,0,1846,90.2,1,23.8
+2019,chelsea Fc,Antonio Rudiger,D,5200000,5.2,,0,0,0,0,1449,87.8,2,27.3
+2019,chelsea Fc,Ross Barkley,M,5000000,5,,0.6875,6,12,28.6,616,87.7,1,30
+2019,chelsea Fc,Michy Batshuayi,F,4680000,4.68,,0,0,0,0,0,0,1,13.3
+2019,chelsea Fc,Mason Mount,M,4600000,4.6,,0.645833333,14,16,28.1,1380,80.9,7,37.2
+2019,chelsea Fc,Andreas Christensen,D,4160000,4.16,,0.487804878,15,104,36.5,1258,92.7,0,0
+2019,chelsea Fc,Emerson Palmieri,D,3900000,3.9,,0.318181818,10,22,34.9,853,82.8,0,53.8
+2019,chelsea Fc,Tammy Abraham,F,3000000,3,,0.714285714,5,26,30.2,412,69.9,15,39.8
+2019,chelsea Fc,Pedro Rodríguez Ledesma,M,3000000,3,,0,0,0,0,0,0,1,39.1
+2019,chelsea Fc,Marco van Ginkel,M,2750000,2.75,,0,0,0,0,0,0,0,0
+2019,chelsea Fc,Reece James,D,2600000,2.6,,0.547619048,14,39,26.9,1268,83.2,0,16.7
+2019,chelsea Fc,Billy Gilmour,M,2250000,2.25,,0,0,0,0,169,89.3,0,0
+2019,chelsea Fc,Kurt Zouma,D,2080000,2.08,,0.515151515,26,181,31.1,1982,89.4,0,33.3
+2019,chelsea Fc,Ruben Loftus-Cheek,F,1560000,1.56,,0,0,0,0,131,88.5,0,0
+2019,chelsea Fc,Isaiah Brown,F,1300000,1.3,,0,0,0,0,0,0,0,0
+2019,chelsea Fc,Fikayo Tomori,D,750000,0.75,,0.5,15,93,32.2,1098,89.3,0,0
+2019,chelsea Fc,Charly Musonda,M,550000,0.55,,0,0,0,0,0,0,0,0
+2019,chelsea Fc,Danilo Pantic,M,0,0,0,0,0,0,0,0,0,0,0
+2019,chelsea Fc,Willy Caballero,GK,1820000,1.82,0.965559656,0,0,0,0,0,0,0,0
+2019,chelsea Fc,Kepa Arrizabalaga,GK,7800000,7.8,0.965067651,0,0,0,0,0,0,0,0
+2019,crystal Palace,Wilfried Zaha,F,6760000,6.76,,0.688888889,22,4,29.2,1188,78.7,4,27.9
+2019,crystal Palace,Max Meyer,M,6500000,6.5,,0.470588235,4,3,27.1,213,75.1,0,0
+2019,crystal Palace,Christian Benteke,F,6240000,6.24,,0,0,0,0,326,58.3,2,45.2
+2019,crystal Palace,Mamadou Sakho,D,5200000,5.2,,0.583333333,7,53,28.3,516,87.4,0,0
+2019,crystal Palace,Wilfried Zaha,F,5200000,5.2,,0.688888889,22,4,29.2,1188,78.7,4,27.9
+2019,crystal Palace,Gary Cahill,D,3380000,3.38,,0.666666667,13,134,33,953,86.7,0,25
+2019,crystal Palace,Cheikhou Kouyate,M,3380000,3.38,,0.642857143,18,79,29.4,860,75.9,1,21.7
+2019,crystal Palace,Scott Dann,D,3120000,3.12,,0.416666667,11,80,39,555,83.1,0,0
+2019,crystal Palace,Connor Wickham,F,3120000,3.12,,0,0,0,0,0,0,0,0
+2019,crystal Palace,Jeffrey Schlupp,D,2912000,2.912,,0.3,7,15,24.2,342,74.9,3,50
+2019,crystal Palace,James McArthur,M,2860000,2.86,,0.636363636,40,57,28.2,1474,78.2,0,20.7
+2019,crystal Palace,Luka Milivojevic,M,2860000,2.86,,0.616666667,27,66,26,1506,77.1,3,24.1
+2019,crystal Palace,Jairo Riedewald,D,2860000,2.86,,0,0,0,0,400,75.3,0,0
+2019,crystal Palace,Andros Townsend,F,2860000,2.86,,0.625,13,10,22.4,460,70.7,1,41.7
+2019,crystal Palace,Patrick Van Aanholt,D,2860000,2.86,,0.62745098,23,67,27.7,1558,78.8,3,19.2
+2019,crystal Palace,James McCarthy,M,2600000,2.6,,0.545454545,14,19,29.8,818,77,0,27.3
+2019,crystal Palace,James Tomkins,D,2600000,2.6,,0.466666667,12,138,32.6,626,80.7,0,0
+2019,crystal Palace,Wayne Hennessey,GK,2080000,2.08,,0,0,0,0,0,0,0,0
+2019,crystal Palace,Joel Ward,D,1820000,1.82,,0.462686567,24,106,26.4,1260,74,0,0
+2019,crystal Palace,Jordan Ayew,F,1690000,1.69,,0.537037037,14,20,21.5,838,81.9,9,42.9
+2019,crystal Palace,Martin Kelly,D,1300000,1.3,,0.75,10,102,34.8,669,73.7,0,0
+2019,crystal Palace,Victor Camarasa,M,0,0,0,0,0,0,0,0,0,0,0
+2019,crystal Palace,Stephen Henderson,GK,0,0,0,0,0,0,0,0,0,0,0
+2019,crystal Palace,Jaroslaw Jach,D,0,0,0,0,0,0,0,0,0,0,0
+2019,crystal Palace,Vicente Guaita,GK,3120000,3.12,0.970479705,0,0,0,0,0,0,0,0
+2019,everton Fc,Bernard Anicio Caldeira Duarte,M,6240000,6.24,,0,0,0,0,573,74.3,3,33.3
+2019,everton Fc,Yerry Mina,D,6240000,6.24,,0.465116279,15,178,28.8,1251,85.5,2,33.3
+2019,everton Fc,Andre Gomes,M,5835000,5.835,,0.75,5,10,25.1,859,83.7,0,0
+2019,everton Fc,Morgan Schneiderlin,M,5200000,5.2,,0.59375,12,24,25.2,567,87.1,0,0
+2019,everton Fc,Gylfi Sigurdsson,M,5200000,5.2,,0.75,24,16,25.3,1109,78.2,2,26.7
+2019,everton Fc,Theo Walcott,F,5200000,5.2,,0.470588235,11,5,23.8,405,65.7,2,35.7
+2019,everton Fc,Richarlison de Andrade,F,4680000,4.68,,0,0,0,0,823,66,13,34.1
+2019,everton Fc,Lucas Digne,D,4680000,4.68,,0.448275862,24,145,26.9,1946,69.5,0,17.2
+2019,everton Fc,Fabian Delph,M,4160000,4.16,,0.379310345,13,19,29.1,778,86.9,0,0
+2019,everton Fc,Seamus Coleman,D,3640000,3.64,,0,0,0,0,1058,76.8,0,0
+2019,everton Fc,Leighton Baines,D,3380000,3.38,,0.6,2,12,27.5,209,80.4,0,0
+2019,everton Fc,Jean-Philippe Gbamin,M,3380000,3.38,,0,0,0,0,0,0,0,0
+2019,everton Fc,Michael Keane,D,3120000,3.12,,0.634146341,24,208,34.7,1379,84.6,2,30.8
+2019,everton Fc,Cenk Tosun,F,3120000,3.12,,0,0,0,0,0,0,1,27.3
+2019,everton Fc,Oumar Niasse,F,2860000,2.86,,0,0,0,0,0,0,0,0
+2019,everton Fc,Moise Kean,F,2765000,2.765,,0,0,0,0,142,73.2,2,43.3
+2019,everton Fc,Alex Iwobi,F,2600000,2.6,,0.518518519,10,13,26,614,75.2,1,39.1
+2019,everton Fc,Cuco Martina,D,1820000,1.82,,0,0,0,0,0,0,0,0
+2019,everton Fc,Tom Davies,M,1300000,1.3,,0.5,28,35,23.3,870,78.3,1,29.4
+2019,everton Fc,Mason Holgate,D,1300000,1.3,,0.56,28,145,31.8,991,86.3,0,41.7
+2019,everton Fc,Dominic Calvert-Lewin,F,1040000,1.04,,0.733333333,7,34,27.6,594,66.2,13,44.6
+2019,everton Fc,Beni Baningime,M,416000,0.416,,0,0,0,0,0,0,0,0
+2019,everton Fc,Djibril Sidibe,D,0,0,0,0,0,0,0,0,0,0,25
+2019,everton Fc,Joao Virginia,GK,0,0,0,0,0,0,0,0,0,0,0
+2019,everton Fc,Jordan Pickford,GK,5200000,5.2,0.963837638,0,0,0,0,0,0,0,0
+2019,fulham Fc,André Schurrle,F,5408000,5.408,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Andre-Frank Zambo Anguissa,M,3484000,3.484,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Jean Michael Seri,M,3380000,3.38,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Ivan Cavaleiro,F,3120000,3.12,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Aleksandar Mitrovic,F,3120000,3.12,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Michael Hector,D,2600000,2.6,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Fabricio Agosto Ramírez,GK,2340000,2.34,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Joshua Onomah,M,2340000,2.34,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Bobby Reid,M,2340000,2.34,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Tom Cairney,M,2080000,2.08,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Marcus Bettinelli,GK,1820000,1.82,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Anthony Knockaert,F,1820000,1.82,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Alfie Mawson,D,1664000,1.664,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Joe Bryan,D,1560000,1.56,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Tim Ream,D,1404000,1.404,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Maxime le Marchand,D,1300000,1.3,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Kevin McDonald,M,1144000,1.144,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Cyrus Christie,D,1040000,1.04,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Neeskens Kebano,M,700000,0.7,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Ibrahima Cissé,M,650000,0.65,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Aboubakar Kamara,F,650000,0.65,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Harrison Reed,M,624000,0.624,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Stefan Johansen,M,520000,0.52,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Floyd Ayité,F,416000,0.416,,0,0,0,0,0,0,0,0
+2019,fulham Fc,Jordan Archer,GK,0,0,0,0,0,0,0,0,0,0,0
+2019,fulham Fc,Steven Sessegnon,D,0,0,0,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Patrick Bamford,F,1820000,1.82,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Kiko Casilla,GK,1670000,1.67,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Adam Forshaw,M,1040000,1.04,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Pablo Hernández,M,988000,0.988,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Ezgjan Alioski,M,780000,0.78,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Eunan O'Kane,M,676000,0.676,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Barry Douglas,D,520000,0.52,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Gaetano Berardi,D,468000,0.468,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Ouasim Bouy,M,457600,0.4576,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Luke Ayling,D,416000,0.416,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Stuart Dallas,M,416000,0.416,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Mateusz Klich,M,403000,0.403,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Jay-Roy Grot,F,371800,0.3718,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Conor Shaughnessy,M,371800,0.3718,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Pascal Struijk,D,371800,0.3718,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Liam Cooper,D,338000,0.338,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Kalvin Phillips,M,234000,0.234,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Tyler Roberts,M,182000,0.182,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Leif Davis,D,31000,0.031,,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Elia Caprile,GK,0,0,0,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Laurens De Bock,D,0,0,0,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Robbie Gotts,M,0,0,0,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Bryce Hosannah,D,0,0,0,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Alfie McCalmont,M,0,0,0,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Liam McCarron,M,0,0,0,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Kamil Miazek,GK,0,0,0,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Rafa Mújica,F,0,0,0,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Jordan Stevens,M,0,0,0,0,0,0,0,0,0,0,0
+2019,leeds United Fc,Kun Temenuzhkov,F,0,0,0,0,0,0,0,0,0,0,0
+2019,leicester City,Kasper Schmeichel,GK,6760000,6.76,0.973431734,0,0,0,0,0,0,0,0
+2019,leicester City,Jamie Vardy,F,7280000,7.28,,0.647058824,2,23,29.4,462,68,23,43.7
+2019,leicester City,Dennis Praet,M,4500000,4.5,,0.6,13,13,25,539,82.7,1,18.8
+2019,leicester City,Jonny Evans,D,4160000,4.16,,0.645833333,39,271,39.9,2372,88,1,41.7
+2019,leicester City,Adrien Silva,M,4160000,4.16,,0,0,0,0,0,0,0,0
+2019,leicester City,Onyinye Ndidi,M,3900000,3.9,,0.608,49,83,32.7,1648,85.9,2,7.4
+2019,leicester City,Ricardo Pereira,D,3640000,3.64,,0.557377049,41,97,31.3,1875,80.7,3,29.4
+2019,leicester City,Ben Chilwell,D,3380000,3.38,,0.509803922,20,89,27.9,1955,78.1,3,40
+2019,leicester City,Kelechi Iheanacho,F,3120000,3.12,,0,0,0,0,268,81,5,52.9
+2019,leicester City,Wes Morgan,D,3120000,3.12,,0,0,0,0,238,92.4,0,0
+2019,leicester City,Demarai Gray,F,2860000,2.86,,0,0,0,0,327,82.9,2,28.6
+2019,leicester City,Vicente Iborra,M,2860000,2.86,,0,0,0,0,0,0,0,0
+2019,leicester City,James Maddison,M,2860000,2.86,,0.696428571,12,8,31.5,1674,76.6,6,24.3
+2019,leicester City,Christian Fuchs,D,2600000,2.6,,0.6,14,39,31.3,630,81,0,0
+2019,leicester City,Nampalys Mendy,M,2600000,2.6,,0,0,0,0,212,91.5,0,0
+2019,leicester City,Marc Albrighton,M,2340000,2.34,,0.47826087,9,7,34,507,67.9,0,20
+2019,leicester City,Ayoze Perez,F,2340000,2.34,,0.666666667,17,12,30.3,773,79.7,8,43.5
+2019,leicester City,Caglar Soyuncu,D,2340000,2.34,,0.643835616,26,222,39.9,2238,90.9,1,35
+2019,leicester City,Youri Tielemans,M,1718000,1.718,,0.701754386,18,24,27.5,1804,80.7,3,24.1
+2019,leicester City,Matty James,M,1664000,1.664,,0,0,0,0,0,0,0,0
+2019,leicester City,Bartosz Kapustka,M,1560000,1.56,,0,0,0,0,0,0,0,0
+2019,leicester City,Eldin Jakupovic,GK,1196000,1.196,,0,0,0,0,0,0,0,0
+2019,leicester City,Daniel Amartey,M,1092000,1.092,,0,0,0,0,0,0,0,0
+2019,leicester City,Ryan Bennett,D,1040000,1.04,,0,0,0,0,221,78.7,0,0
+2019,leicester City,Danny Ward,GK,1040000,1.04,,0,0,0,0,0,0,0,0
+2019,leicester City,Harvey Barnes,M,520000,0.52,,0.545454545,6,7,26.2,729,76.7,6,44.3
+2019,leicester City,James Justin,D,429000,0.429,,0.555555556,8,31,36.5,801,81.1,0,0
+2019,leicester City,Hamza Choudhury,M,390000,0.39,,0.65,18,18,32.3,494,86.6,0,0
+2019,liverpool Fc,Alisson Becker,GK,7800000,7.8,0.980073801,0,0,0,0,0,0,0,0
+2019,liverpool Fc,Adrian San Miguel del Castillo,GK,2600000,2.6,0.974661747,0,0,0,0,0,0,0,0
+2019,liverpool Fc,Mohamed Salah,F,10400000,10.4,,0.619047619,5,2,32.6,1004,74.3,19,43.1
+2019,liverpool Fc,Roberto Firmino,F,9360000,9.36,,0.702702703,11,16,31.1,1171,79.5,9,37
+2019,liverpool Fc,Virgil Van Dijk,D,9360000,9.36,,0.666666667,24,259,34.6,3085,90.5,5,46.7
+2019,liverpool Fc,Jordan Henderson,M,7280000,7.28,,0.553846154,12,27,31.8,1879,84.2,4,40
+2019,liverpool Fc,James Milner,M,7280000,7.28,,0.588235294,7,25,24.3,773,85.9,2,10
+2019,liverpool Fc,Naby Keita,M,6240000,6.24,,0.740740741,14,4,36.6,684,88.9,2,58.3
+2019,liverpool Fc,Alex Oxlade-Chamberlain,M,6240000,6.24,,0.608695652,13,7,29.7,748,79.1,4,25
+2019,liverpool Fc,Adam Lallana,M,5720000,5.72,,0.6,6,3,31.1,270,84.8,0,0
+2019,liverpool Fc,Dejan Lovren,D,5200000,5.2,,0.5625,8,81,27.5,603,87.9,0,0
+2019,liverpool Fc,Sadio Mane,F,5200000,5.2,,0,0,0,0,1162,80.3,18,47.4
+2019,liverpool Fc,Joel Matip,D,5200000,5.2,,0.692307692,5,76,42.2,514,87.2,0,0
+2019,liverpool Fc,Fabinho Tavares,M,5200000,5.2,,0.688311688,25,34,32.5,1528,87.3,2,33.3
+2019,liverpool Fc,Georginio Wijnaldum,M,4680000,4.68,,0.783783784,14,34,32.7,1628,90.7,4,41.7
+2019,liverpool Fc,Xherdan Shaqiri,M,4160000,4.16,,0,0,0,0,109,82.6,0,0
+2019,liverpool Fc,Tren Alexander-Arnold,D,3900000,3.9,,0.431034483,34,98,32,3147,71.6,4,29.5
+2019,liverpool Fc,Joe Gomez,D,3900000,3.9,,0.576923077,19,90,39.7,1960,88.9,0,0
+2019,liverpool Fc,Takumi Minamino,F,3900000,3.9,,0,0,0,0,111,88.3,0,0
+2019,liverpool Fc,Nathaniel Clyne,D,3640000,3.64,,0,0,0,0,0,0,0,0
+2019,liverpool Fc,Nathaniel Phillips,D,3360000,3.36,,0,0,0,0,0,0,0,0
+2019,liverpool Fc,Divock Origi,F,3120000,3.12,,0.666666667,2,7,34.9,219,72.1,4,42.9
+2019,liverpool Fc,Andrew Robertson,D,2600000,2.6,,0.533333333,30,82,34.4,2928,80.9,2,30
+2019,liverpool Fc,Loris Karius,GK,1300000,1.3,,0,0,0,0,0,0,0,0
+2019,liverpool Fc,Rhian Brewster,F,520000,0.52,,0,0,0,0,0,0,0,0
+2019,liverpool Fc,Caoimhin Kelleher,GK,0,0,0,0,0,0,0,0,0,0,0
+2019,manchester City Fc,Ederson Moraes,GK,3380000,3.38,0.979827798,0,0,0,0,0,0,0,0
+2019,manchester City Fc,Kevin De Bruyne,M,18200000,18.2,,0.636363636,11,19,31.9,2244,74.6,13,28.1
+2019,manchester City Fc,Raheem Sterling,M,15600000,15.6,,0.707317073,10,8,32,1217,80.8,20,37.5
+2019,manchester City Fc,Sergio Aguero,F,11967000,11.967,,0,0,0,0,367,77.4,16,34.2
+2019,manchester City Fc,David Silva,M,11440000,11.44,,0.615384615,9,7,31.8,1513,87.2,6,37
+2019,manchester City Fc,Fernandinho Luis Roza,M,7800000,7.8,,0.568181818,16,106,41,2190,90.6,0,11.8
+2019,manchester City Fc,Bernardo Silva,M,7800000,7.8,,0.666666667,23,11,30.4,1451,87,6,30.6
+2019,manchester City Fc,Ilkay Gundogan,M,7280000,7.28,,0,0,0,0,1956,91,2,19.4
+2019,manchester City Fc,Rodrigo Hernández Cascante,M,6300000,6.3,,0,0,0,0,2537,93.1,3,37.5
+2019,manchester City Fc,Aymeric Laporte,D,6240000,6.24,,0.666666667,14,39,41.9,1114,93.4,0,0
+2019,manchester City Fc,Riyad Mahrez,F,6240000,6.24,,0.65625,15,7,28.2,1188,84.9,11,41.1
+2019,manchester City Fc,Nicolas Otamendi,D,6240000,6.24,,0.545454545,9,89,33,1488,92.7,2,46.7
+2019,manchester City Fc,Kyle Walker,D,5720000,5.72,,0.696969697,15,64,39.5,2144,87.9,1,23.1
+2019,manchester City Fc,John Stones,D,5200000,5.2,,0.631578947,2,38,43.3,1016,95.1,0,0
+2019,manchester City Fc,Gabriel Jesus,F,4680000,4.68,,0.76,12,7,30.3,608,87.5,14,42.2
+2019,manchester City Fc,Benjamin Mendy,D,4680000,4.68,,0.772727273,7,43,28.9,1285,86.2,0,10
+2019,manchester City Fc,Leroy Sane,F,4680000,4.68,,0,0,0,0,0,0,0,0
+2019,manchester City Fc,Claudio Bravo,GK,4160000,4.16,,0,0,0,0,0,0,0,0
+2019,manchester City Fc,Joao Cancelo,D,4160000,4.16,,0.333333333,10,46,27,1147,87.9,0,26.7
+2019,manchester City Fc,Marlos Moreno,F,2340000,2.34,,0,0,0,0,0,0,0,0
+2019,manchester City Fc,Oleksandr Zinchenko,M,1040000,1.04,,0.571428571,6,36,32.4,1348,88.9,0,18.8
+2019,manchester City Fc,Eric Garcia,D,750000,0.75,,0,0,0,0,705,95.3,0,0
+2019,manchester City Fc,Phil Foden,M,624000,0.624,,0.5625,3,3,29.2,508,84.8,5,41.2
+2019,manchester City Fc,Scott Carson,GK,0,0,0,0,0,0,0,0,0,0,0
+2019,manchester City Fc,Jose Angel Tasende,D,0,0,0,0,0,0,0,426,78.6,0,0
+2019,manchester United Fc,David De Gea,GK,19500000,19.5,0.976629766,0,0,0,0,0,0,0,0
+2019,manchester United Fc,Paul Pogba,M,15080000,15.08,,0.64,4,13,35.2,1026,85.8,1,33.3
+2019,manchester United Fc,Anthony Martial,F,13000000,13,,0.8,5,16,28.5,721,79.8,17,48.1
+2019,manchester United Fc,Marcus Rashford,F,10400000,10.4,,0.5,8,20,27,988,76.7,17,45.2
+2019,manchester United Fc,Harry Maguire,D,9875000,9.875,,0.613636364,55,246,37.5,2403,88.5,1,25
+2019,manchester United Fc,Bruno Fernandes,M,9360000,9.36,,0.736842105,7,12,25,853,71.3,8,35
+2019,manchester United Fc,Juan Mata,M,8320000,8.32,,0,0,0,0,523,84.5,0,0
+2019,manchester United Fc,Luke Shaw,D,7800000,7.8,,0.705882353,15,58,28.5,1296,86.5,0,50
+2019,manchester United Fc,Frederico de Paula Santos,M,6240000,6.24,,0.64556962,28,26,27.4,1714,85.4,0,25
+2019,manchester United Fc,Victor Lindelof,D,6240000,6.24,,0.533333333,25,170,29,2013,87.6,0,0
+2019,manchester United Fc,Nemanja Matic,M,6240000,6.24,,0.512195122,18,35,28.6,1240,88.3,0,0
+2019,manchester United Fc,Odion Ighalo,F,5240000,5.24,,0,0,0,0,0,0,0,0
+2019,manchester United Fc,Aaron Wan-Bissaka,D,4680000,4.68,,0.471014493,49,108,28.8,2064,81.2,0,0
+2019,manchester United Fc,Eric Bailly,D,4160000,4.16,,0,0,0,0,0,0,0,0
+2019,manchester United Fc,Marcos Rojo,D,4160000,4.16,,0,0,0,0,0,0,0,0
+2019,manchester United Fc,Phil Jones,D,3900000,3.9,,0,0,0,0,0,0,0,0
+2019,manchester United Fc,Jesse Lingard,F,3900000,3.9,,0.692307692,6,1,23.8,409,85.8,1,27.3
+2019,manchester United Fc,Sergio Romero,GK,3640000,3.64,,0,0,0,0,0,0,0,0
+2019,manchester United Fc,Axel Tuanzebe,D,2600000,2.6,,0,0,0,0,141,90.1,0,0
+2019,manchester United Fc,Matteo Darmian,D,2340000,2.34,,0,0,0,0,0,0,0,0
+2019,manchester United Fc,Daniel James,F,2340000,2.34,,0.6,4,10,25.1,803,73,3,45.2
+2019,manchester United Fc,Mason Greenwood,F,1820000,1.82,,0.684210526,7,4,32.1,488,85.2,10,52.6
+2019,manchester United Fc,Lee Grant,GK,1560000,1.56,,0,0,0,0,0,0,0,0
+2019,manchester United Fc,Andreas Pereira,M,1560000,1.56,,0.545454545,11,6,26.6,770,73.5,1,37.8
+2019,manchester United Fc,Diogo Dalot,M,1300000,1.3,,0,0,0,0,0,0,0,0
+2019,manchester United Fc,Tahith Chong,F,1040000,1.04,,0,0,0,0,0,0,0,0
+2019,manchester United Fc,Timothy Fosu-Mensah,D,780000,0.78,,0,0,0,0,0,0,0,0
+2019,manchester United Fc,Scott McTominay,M,520000,0.52,,0.62,23,52,32.1,995,82,4,33.3
+2019,newcastle United Fc,Joelinton Cassio Apolinário de Lira,F,4500000,4.5,,0,0,0,0,801,79.9,2,28.8
+2019,newcastle United Fc,Andy Carroll,F,3900000,3.9,,0,0,0,0,207,64.7,0,20
+2019,newcastle United Fc,Jonjo Shelvey,M,3640000,3.64,,0.533333333,10,54,22.4,1091,72.4,6,31.1
+2019,newcastle United Fc,Emil Krafth,D,3000000,3,,0.6,6,40,29.9,433,73,0,0
+2019,newcastle United Fc,Yoshinori Muto,F,2808000,2.808,,0,0,0,0,0,0,0,0
+2019,newcastle United Fc,Matt Ritchie,M,2340000,2.34,,0.708333333,17,36,23.6,691,68.6,2,24
+2019,newcastle United Fc,Federico Fernandez,D,2236000,2.236,,0.64,8,214,31.6,1184,76.6,2,37.5
+2019,newcastle United Fc,Miguel Almiron,M,2201000,2.201,,0.580645161,20,16,23.9,894,76.3,4,30.9
+2019,newcastle United Fc,Dwight Gayle,F,2080000,2.08,,0.769230769,1,8,27.7,150,73.3,4,43.5
+2019,newcastle United Fc,Jamaal Lascelles,D,2080000,2.08,,0.555555556,22,166,36.4,810,82.5,0,0
+2019,newcastle United Fc,Fabian Schar,D,2080000,2.08,,0.551020408,32,104,26.5,767,75.1,2,31.6
+2019,newcastle United Fc,Ki Sung-yueng,M,2080000,2.08,,0,0,0,0,0,0,0,0
+2019,newcastle United Fc,Martin Dubravka,GK,1976000,1.976,,0,0,0,0,0,0,0,0
+2019,newcastle United Fc,Florian Lejeune,D,1976000,1.976,,0,0,0,0,187,72.7,0,0
+2019,newcastle United Fc,Ciaran Clark,D,1820000,1.82,,0.545454545,14,98,36.1,322,78.6,0,0
+2019,newcastle United Fc,Paul Dummett,D,1820000,1.82,,0.214285714,15,72,24.5,502,71.3,0,0
+2019,newcastle United Fc,Javier Manquillo,D,1820000,1.82,,0.680851064,13,60,32.3,632,71.5,0,0
+2019,newcastle United Fc,Christian Atsu,F,1560000,1.56,,0.75,7,6,19.3,208,78.4,0,0
+2019,newcastle United Fc,Deandre Yedlin,D,1560000,1.56,,0.736842105,8,21,21,316,72.2,0,0
+2019,newcastle United Fc,Karl Darlow,GK,1300000,1.3,,0,0,0,0,0,0,0,0
+2019,newcastle United Fc,Rob Elliot,GK,1300000,1.3,,0,0,0,0,0,0,0,0
+2019,newcastle United Fc,Isaac Hayden,M,1144000,1.144,,0.587301587,29,34,26.5,833,75.6,1,17.6
+2019,newcastle United Fc,Jamie Sterry,D,104000,0.104,,0,0,0,0,0,0,0,0
+2019,newcastle United Fc,Sean Longstaff,M,36000,0.036,,0.488372093,19,30,21.8,657,78.4,1,23.1
+2019,newcastle United Fc,Jetro Willems,D,0,0,0,0.59375,18,49,28.3,582,70.1,2,42.9
+2019,sheffield United Fc,Dean Henderson,GK,520000,0.52,0.977367774,0,0,0,0,0,0,0,0
+2019,sheffield United Fc,Phil Jagielka,D,2600000,2.6,,0,0,0,0,0,0,0,0
+2019,sheffield United Fc,Sander Berge,M,1700000,1.7,,0.653846154,3,16,25.7,386,77.2,0,0
+2019,sheffield United Fc,Muhamed Besic,M,1560000,1.56,,0,0,0,0,106,81.1,0,0
+2019,sheffield United Fc,Lys Mousset,F,1300000,1.3,,0.363636364,4,2,28,239,73.6,6,25.7
+2019,sheffield United Fc,Oliver McBurnie,F,1040000,1.04,,0.6,7,43,24.2,629,64.5,6,49
+2019,sheffield United Fc,Michael Verrips,GK,1040000,1.04,,0,0,0,0,0,0,0,0
+2019,sheffield United Fc,Oliver Norwood,M,780000,0.78,,0.586666667,30,64,27.7,2148,77.5,1,31.3
+2019,sheffield United Fc,Richard Stearman,D,780000,0.78,,0,0,0,0,0,0,0,0
+2019,sheffield United Fc,Billy Sharp,F,624000,0.624,,0,0,0,0,222,73,3,35.7
+2019,sheffield United Fc,Jack Robinson,D,572000,0.572,,0,0,0,0,257,75.1,0,0
+2019,sheffield United Fc,Luke Freeman,M,520000,0.52,,0,0,0,0,0,0,0,0
+2019,sheffield United Fc,Jack O'Connell,D,520000,0.52,,0.571428571,35,214,34.2,1555,74.3,0,12.5
+2019,sheffield United Fc,Leon Clarke,F,468000,0.468,,0,0,0,0,0,0,0,0
+2019,sheffield United Fc,John Fleck,M,416000,0.416,,0.631578947,20,24,26.5,1164,73.4,5,37.5
+2019,sheffield United Fc,John Egan,D,390000,0.39,,0.6,26,269,34.1,1213,83.8,2,17.9
+2019,sheffield United Fc,Simon Moore,GK,260000,0.26,,0,0,0,0,0,0,0,0
+2019,sheffield United Fc,Callum Robinson,F,260000,0.26,,0,0,0,0,155,75.5,1,23.1
+2019,sheffield United Fc,Kieron Freeman,D,234000,0.234,,0,0,0,0,150,73.3,0,0
+2019,sheffield United Fc,George Baldock,D,208000,0.208,,0.616438356,30,87,27.9,1552,75.6,2,38.5
+2019,sheffield United Fc,John Lundstrom,M,208000,0.208,,0.66,18,51,28.5,1202,80.4,5,25
+2019,sheffield United Fc,Ben Osborn,M,208000,0.208,,0.555555556,3,10,24.5,259,69.1,0,0
+2019,sheffield United Fc,Enda Stevens,D,208000,0.208,,0.565789474,24,90,26.6,1895,74.1,2,18.2
+2019,sheffield United Fc,Kean Bryan,D,156000,0.156,,0,0,0,0,0,0,0,0
+2019,sheffield United Fc,Ricky Holmes,F,0,0,0,0,0,0,0,0,0,0,0
+2019,sheffield United Fc,Jack Rodwell,M,0,0,0,0,0,0,0,0,0,0,0
+2019,southampton Fc,Alex McCarthy,GK,2600000,2.6,0.969249692,0,0,0,0,0,0,0,0
+2019,southampton Fc,Danny Ings,F,3900000,3.9,,0.62745098,7,24,26.4,678,64.5,22,38.9
+2019,southampton Fc,Ryan Bertrand,D,3640000,3.64,,0.583333333,26,76,36.9,1656,75.1,1,21.1
+2019,southampton Fc,Sofiane Boufal,M,3380000,3.38,,0.571428571,5,2,32.6,325,76,0,33.3
+2019,southampton Fc,Oriol Romeu,M,3380000,3.38,,0.696428571,21,56,32,1038,83.4,0,0
+2019,southampton Fc,Cedric Soares,D,3380000,3.38,,0.52173913,16,59,30.9,724,72.1,0,40
+2019,southampton Fc,Shane Long,F,3120000,3.12,,0.789473684,2,12,31.2,405,55.8,2,39.4
+2019,southampton Fc,Nathan Redmond,M,3120000,3.12,,0.807017544,14,13,30,1061,73.6,4,35.6
+2019,southampton Fc,Jannik Vestergaard,D,3120000,3.12,,0.48,11,163,36.6,799,80.2,1,50
+2019,southampton Fc,Moussa Djenepo,F,2860000,2.86,,0.620689655,7,12,29.8,264,72.3,2,35
+2019,southampton Fc,Stuart Armstrong,M,2600000,2.6,,0.510204082,9,22,31.6,612,76.1,5,41.3
+2019,southampton Fc,Pierre-Emile Hojbjerg,M,2600000,2.6,,0.633333333,42,78,33.5,1810,78.1,0,21.3
+2019,southampton Fc,Maya Yoshida,D,2600000,2.6,,0,0,0,0,247,83.8,0,0
+2019,southampton Fc,Jack Stephens,D,2496000,2.496,,0.625,18,183,35,1199,75.6,0,0
+2019,southampton Fc,James Ward-Prowse,M,2340000,2.34,,0.589473684,36,109,29.5,1971,74,5,42.6
+2019,southampton Fc,Che Adams,F,1560000,1.56,,0,0,0,0,265,69.4,4,24.3
+2019,southampton Fc,Jan Bednarek,D,1040000,1.04,,0.542857143,44,329,31.8,1434,79.7,0,0
+2019,southampton Fc,Sam McQueen,M,936000,0.936,,0,0,0,0,0,0,0,0
+2019,southampton Fc,Michael Obafemi,F,600000,0.6,,0,0,0,0,144,77.8,3,33.3
+2019,southampton Fc,Yan Valery,D,104000,0.104,,0.619047619,11,40,28.7,318,62.3,0,0
+2019,southampton Fc,Kevin Danso,D,0,0,0,0,0,0,0,159,72.3,0,0
+2019,southampton Fc,Daniel N'Lundulu,F,0,0,0,0,0,0,0,0,0,0,0
+2019,southampton Fc,Angus Gunn,GK,2080000,2.08,0.938499385,0,0,0,0,0,0,0,0
+2019,tottenham Hotspur Fc,Hugo Lloris,GK,5200000,5.2,0.974169742,0,0,0,0,0,0,0,0
+2019,tottenham Hotspur Fc,Paulo Gazzaniga,GK,1040000,1.04,0.964329643,0,0,0,0,0,0,0,0
+2019,tottenham Hotspur Fc,Harry Kane,F,10400000,10.4,,0.7,4,30,22.3,592,66.6,18,43.6
+2019,tottenham Hotspur Fc,Tanguy Ndombele,M,10400000,10.4,,0.703703704,9,8,24.8,629,84.6,0,0
+2019,tottenham Hotspur Fc,Heung-Min Son,F,7280000,7.28,,0,0,0,0,882,79.9,11,48.1
+2019,tottenham Hotspur Fc,Dele Alli,M,5200000,5.2,,0.707317073,7,17,28.2,805,77.1,8,46.2
+2019,tottenham Hotspur Fc,Jan Vertonghen,D,5200000,5.2,,0.677419355,22,116,33.1,1112,83.6,0,0
+2019,tottenham Hotspur Fc,Toby Alderweireld,D,4160000,4.16,,0.545454545,11,229,32.2,1895,82.7,2,31.3
+2019,tottenham Hotspur Fc,Erik Lamela,M,4160000,4.16,,0.777777778,9,8,27.9,596,78.7,2,27.6
+2019,tottenham Hotspur Fc,Lucas Moura,M,4160000,4.16,,0.622641509,14,21,27.1,799,72.7,4,23.2
+2019,tottenham Hotspur Fc,Moussa Sissoko,M,4160000,4.16,,0.625,22,48,28.8,1279,86.5,2,28.6
+2019,tottenham Hotspur Fc,Steven Bergwijn,F,3800000,3.8,,0,0,0,0,259,86.9,0,0
+2019,tottenham Hotspur Fc,Serge Aurier,D,3640000,3.64,,0.56122449,29,105,29.4,1654,76.3,1,30.8
+2019,tottenham Hotspur Fc,Giovani Lo Celso,M,3640000,3.64,,0.647058824,14,20,31.9,1005,82.8,0,16.7
+2019,tottenham Hotspur Fc,Davinson Sanchez,D,3380000,3.38,,0.734693878,23,160,37.8,1496,86.8,0,0
+2019,tottenham Hotspur Fc,Ben Davies,D,3120000,3.12,,0.433333333,12,67,29.4,956,76.4,0,0
+2019,tottenham Hotspur Fc,Eric Dier,M,3120000,3.12,,0.56,6,78,26.5,876,81.4,0,0
+2019,tottenham Hotspur Fc,Danny Rose,D,3120000,3.12,,0.576923077,8,21,31.5,419,77.6,0,0
+2019,tottenham Hotspur Fc,Harry Winks,M,2600000,2.6,,0.547619048,27,33,29.9,1656,88.5,0,14.3
+2019,tottenham Hotspur Fc,Juan Foyth,D,1118000,1.118,,0,0,0,0,0,0,0,0
+2019,tottenham Hotspur Fc,Kyle Walker-Peters,D,1040000,1.04,,0.571428571,9,28,29.6,436,77.3,0,0
+2019,tottenham Hotspur Fc,Alfie Whiteman,GK,200000,0.2,,0,0,0,0,0,0,0,0
+2019,tottenham Hotspur Fc,Ryan Sessegnon,M,0,0,0,0,0,0,0,195,74.4,0,0
+2019,tottenham Hotspur Fc,Japhet Tanganga,D,0,0,0,0.75,9,33,31.6,232,81,0,0
+2019,tottenham Hotspur Fc,Michel Vorm,GK,0,0,0,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Charlie Austin,F,3640000,3.64,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Nacer Chadli,M,3120000,3.12,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Kieran Gibbs,D,2860000,2.86,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Jake Livermore,M,2392000,2.392,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Allan-Romeo Nyom,D,1820000,1.82,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Sam Johnstone,GK,1690000,1.69,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Yuning Zhang,F,1612000,1.612,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Oliver Burke,F,1560000,1.56,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Hal Robson-Kanu,F,1560000,1.56,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Ahmed Hegazy,D,1378000,1.378,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Kamil Grosicki,F,1300000,1.3,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Matt Phillips,M,1040000,1.04,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Darnell Furlong,D,962000,0.962,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Semi Ajayi,D,858000,0.858,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Kyle Bartley,D,702000,0.702,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Romaine Sawyers,M,650000,0.65,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Conor Townsend,D,598000,0.598,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Sam Field,M,416000,0.416,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Matheus Pereira,F,312000,0.312,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Dara O'Shea,D,208000,0.208,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Grady Diangana,F,104000,0.104,,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Josh Griffiths,GK,0,0,0,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Jonathan Leko,M,0,0,0,0,0,0,0,0,0,0,0
+2019,west Bromwich Albion Fc,Kenneth Zohore,F,0,0,0,0,0,0,0,0,0,0,0
+2019,west Ham United Fc,David Martin,GK,800000,0.8,0.969495695,0,0,0,0,0,0,0,0
+2019,west Ham United Fc,Lukasz Fabianski,GK,3380000,3.38,0.964329643,0,0,0,0,0,0,0,0
+2019,west Ham United Fc,Sebastien Haller,F,6000000,6,,0,0,0,0,766,68.1,7,49.1
+2019,west Ham United Fc,Andriy Yarmolenko,F,5980000,5.98,,0.666666667,3,6,27.5,424,79.7,5,46.2
+2019,west Ham United Fc,Jack Wilshere,M,5200000,5.2,,0,0,0,0,0,0,0,0
+2019,west Ham United Fc,Jared Bowen,F,5000000,5,,0,0,0,0,276,68.1,0,0
+2019,west Ham United Fc,Felipe Anderson,M,4420000,4.42,,0.666666667,14,14,28.1,934,77.6,1,34.8
+2019,west Ham United Fc,Pablo Zabaleta,D,3900000,3.9,,0.666666667,8,20,29,326,75.8,0,0
+2019,west Ham United Fc,Michail Antonio,M,3640000,3.64,,0.714285714,8,9,23.1,507,64.1,10,44.8
+2019,west Ham United Fc,Manuel Lanzini,M,3640000,3.64,,0.818181818,9,4,22.1,798,84.5,0,30.4
+2019,west Ham United Fc,Angelo Ogbonna,D,3640000,3.64,,0.755555556,23,171,37.4,945,78.7,2,28.6
+2019,west Ham United Fc,Pablo Fornals,M,3500000,3.5,,0.69047619,15,10,26.1,897,75.8,2,32.4
+2019,west Ham United Fc,Issa Diop,D,3484000,3.484,,0.5,32,190,34.6,948,79.6,3,40
+2019,west Ham United Fc,Aaron Cresswell,D,2600000,2.6,,0.604166667,15,92,33.2,1681,73.8,3,27.8
+2019,west Ham United Fc,Mark Noble,M,2600000,2.6,,0.72,19,14,27.1,1499,81.2,4,21.4
+2019,west Ham United Fc,Carlos Sanchez,M,2600000,2.6,,0,0,0,0,0,0,0,0
+2019,west Ham United Fc,Darren Randolph,GK,2100000,2.1,,0,0,0,0,0,0,0,0
+2019,west Ham United Fc,Fabian Balbuena,D,2080000,2.08,,0.611111111,15,93,34.5,487,74.1,1,40
+2019,west Ham United Fc,Ryan Fredericks,M,2080000,2.08,,0.558139535,20,91,29.8,1096,72.5,0,0
+2019,west Ham United Fc,Arthur Masuaku,D,2080000,2.08,,0.627906977,12,29,29.1,588,80.3,0,0
+2019,west Ham United Fc,Robert Snodgrass,M,2080000,2.08,,0.37037037,1,16,24.5,635,68.5,5,47.6
+2019,west Ham United Fc,Goncalo Cardoso,D,1200000,1.2,,0,0,0,0,0,0,0,0
+2019,west Ham United Fc,Sead Haksabanovic,M,260000,0.26,,0,0,0,0,0,0,0,0
+2019,west Ham United Fc,Declan Rice,D,156000,0.156,,0.729508197,50,62,28.9,1717,86,1,30
+2019,west Ham United Fc,Oladapo Afolayan,F,0,0,0,0,0,0,0,0,0,0,0
+2019,west Ham United Fc,Albian Ajeti,F,0,0,0,0,0,0,0,0,0,0,0
+2019,west Ham United Fc,Roberto Jiménez Gago,GK,0,0,0,0,0,0,0,0,0,0,0
+2019,wolverhampton Wanderers Fc,Rui Patrício,GK,5200000,5.2,0.974169742,0,0,0,0,0,0,0,0
+2019,wolverhampton Wanderers Fc,Jose Moutinho,M,5200000,5.2,,0.586956522,28,30,24.1,2022,79.8,1,27.3
+2019,wolverhampton Wanderers Fc,Leander Dendoncker,M,4680000,4.68,,0.588235294,23,95,28.6,1284,84.7,4,25
+2019,wolverhampton Wanderers Fc,Willy Boly,D,3500000,3.5,,0.655737705,21,136,37.3,959,82.7,0,0
+2019,wolverhampton Wanderers Fc,Patrick Cutrone,F,3272000,3.272,,0,0,0,0,0,0,2,27.3
+2019,wolverhampton Wanderers Fc,Daniel Podence,F,3120000,3.12,,0,0,0,0,105,70.5,1,40
+2019,wolverhampton Wanderers Fc,Conor Coady,D,2860000,2.86,,0.536585366,24,164,33.7,1782,85.9,0,0
+2019,wolverhampton Wanderers Fc,Pedro Neto,F,2600000,2.6,,0.454545455,5,6,27.6,397,76.3,3,35.3
+2019,wolverhampton Wanderers Fc,Ruben Neves,M,2600000,2.6,,0.65625,31,53,24.7,1974,80.4,2,16.1
+2019,wolverhampton Wanderers Fc,Diogo Jota,F,2340000,2.34,,0.617647059,6,9,22.2,861,79.1,7,37.7
+2019,wolverhampton Wanderers Fc,Adama Traore,M,2236000,2.236,,0.56097561,8,24,26.7,942,65.9,4,27.9
+2019,wolverhampton Wanderers Fc,Raul Jimenez,F,2144000,2.144,,0,0,0,0,1009,72.5,17,34.2
+2019,wolverhampton Wanderers Fc,Oskar Buur,D,2000000,2,,0,0,0,0,0,0,0,0
+2019,wolverhampton Wanderers Fc,Jonny Castro,D,1907000,1.907,,0.62244898,36,45,29.8,1445,81.5,2,29.4
+2019,wolverhampton Wanderers Fc,Ruben Vinagre,D,1560000,1.56,,0.52,10,20,32.5,344,74.7,0,0
+2019,wolverhampton Wanderers Fc,Romain Saiss,M,1144000,1.144,,0.454545455,27,201,33.8,1540,81.3,2,34.8
+2019,wolverhampton Wanderers Fc,Leonardo Campana,F,1040000,1.04,,0,0,0,0,0,0,0,0
+2019,wolverhampton Wanderers Fc,Max Kilman,D,900000,0.9,,0,0,0,0,0,0,0,0
+2019,wolverhampton Wanderers Fc,Matt Doherty,D,520000,0.52,,0.507692308,19,78,28.2,0,0,4,44.1
+2019,wolverhampton Wanderers Fc,Morgan Gibbs-White,M,78000,0.078,,0,0,0,0,0,0,0,0
+2019,wolverhampton Wanderers Fc,Bruno Jordao,M,0,0,0,0,0,0,0,0,0,0,0
+2019,wolverhampton Wanderers Fc,Phil Ofosu-Ayeh,D,0,0,0,0,0,0,0,0,0,0,0
+2019,wolverhampton Wanderers Fc,Connor Ronan,M,0,0,0,0,0,0,0,0,0,0,0
+2019,wolverhampton Wanderers Fc,Jesus Vallejo,D,0,0,0,0,0,0,0,0,0,0,0
